@@ -102,3 +102,10 @@ The application meets several key non-functional requirements:
 3. Deploy the project on a servlet container such as Apache Tomcat and run the web application.
 
 4. Access the web application via the local server URL (e.g., http://localhost:8080/webapp).
+
+## Airbnb App 's images
+
+![Screenshot of the application](images/img1_servlets_jsp.png)
+![Screenshot of the application](images/img2_servlets_jsp.png)
+![Screenshot of the application](images/img3_servlets_jsp.png)
+
